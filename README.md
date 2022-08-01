@@ -109,7 +109,7 @@ Because the challenge is aimed to be open for everyone, the tools listed here wi
 
 ## 🔵 Tutorials + helpful resources 📚
 If you want to make maps with QGIS, this video is a great starting point. Check out also other videos by [Klas Karlson](https://www.youtube.com/playlist?list=PLNBeueOmuY163iwu4VpZdjqqdU1HkRTP_):
-[![QGIS for Absolute Beginners](http://img.youtube.com/vi/kCnNWyl9qSE/0.jpg)](https://www.youtube.com/watch?v=kCnNWyl9qSE)
+[![QGIS for Absolute Beginners](http://img.youtube.com/vi/kCnNWyl9qSE/0.jpg)](https://www.youtube.com/watch?v=kCnNWyl9qSE) [![Join the chat at https://gitter.im/CoffeewithPlugins/30DayMapChallengeLatam](https://badges.gitter.im/CoffeewithPlugins/30DayMapChallengeLatam.svg)](https://gitter.im/CoffeewithPlugins/30DayMapChallengeLatam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - [Excellent QGIS introduction YouTube series by Steven Bernard](https://www.youtube.com/playlist?list=PL7HotvlLKHCs9nD1fFUjSOsZrsnctyV2R)
 - [QGIS Tutorials and Tips by Ujaval Gandhi](https://www.qgistutorials.com/en/)
 - [Tutorial on how to make 3D landscapes and city models by Alasdair Rae](http://www.statsmapsnpix.com/2020/03/making-3d-landscape-and-city-models.html)
